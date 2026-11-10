@@ -1,5 +1,5 @@
 ﻿User-agent: *
 Allow: /
 
-Sitemap: https://andrei0118.github.io/melyssa-finotti/sitemap.xml
+Sitemap: https://melyssafinotti.com.br/sitemap.xml
 
